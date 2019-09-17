@@ -1,0 +1,27 @@
+﻿<Properties StartupConfiguration="{BBA831FC-1F8D-427C-A68C-9610A5687D9B}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="POS-Console/Program.cs">
+    <Files>
+      <File FileName="POS-Console/Program.cs" Line="70" Column="2" />
+      <File FileName="POS-Console/Products.cs" Line="88" Column="36" />
+      <File FileName="POS-Console/Invoice.cs" Line="44" Column="55" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="POS-Console" expanded="True">
+            <Node name="POS-Console" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.POS-Console PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>

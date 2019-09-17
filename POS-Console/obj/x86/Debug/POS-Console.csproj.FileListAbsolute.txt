@@ -1,0 +1,6 @@
+/home/marko/Projects/POS-Console/POS-Console/bin/Debug/POS-Console.exe
+/home/marko/Projects/POS-Console/POS-Console/bin/Debug/POS-Console.pdb
+/home/marko/Projects/POS-Console/POS-Console/obj/x86/Debug/POS-Console.csprojAssemblyReference.cache
+/home/marko/Projects/POS-Console/POS-Console/obj/x86/Debug/POS-Console.csproj.CoreCompileInputs.cache
+/home/marko/Projects/POS-Console/POS-Console/obj/x86/Debug/POS-Console.exe
+/home/marko/Projects/POS-Console/POS-Console/obj/x86/Debug/POS-Console.pdb
